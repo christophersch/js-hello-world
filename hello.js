@@ -4,7 +4,12 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!", "How are you today?");
+console.log("It's Day number 1!")
+console.log("Thursday!");
+console.log("Pretty neat, right?");
+console.log('Quoth the Raven, "Caw!"');
+console.log("And 9+2 is... um...",9+2);
 
 /*  
 Next, PLAY! 
